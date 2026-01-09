@@ -16,7 +16,7 @@ When I reviewed my results, I realised many of my so-called “weaknesses” wer
 
 ---
 
-![Image]([C:\Users\YourName\Desktop\image.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDkKfVrEODPikFmWkC3ZnQ78OSDftkt3CHQ&s))
+[![Gallup Strengths and Personal Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDkKfVrEODPikFmWkC3ZnQ78OSDftkt3CHQ&s)](https://www.good-sense.co.uk/)
 
 ---
 
