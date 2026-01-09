@@ -5,6 +5,8 @@ Welcome to **GoodSense Training** — a UK-based professional training provider 
 
 We believe safety starts with **awareness, confidence, and practical skills**, not fear or force.
 
+🌐 Website: https://www.good-sense.co.uk/
+
 ---
 
 ## Why GoodSense Training?
@@ -13,7 +15,7 @@ Workplace conflict and aggression are increasing across many sectors. Our traini
 
 **What makes us different:**
 - Practical, scenario-based training  
-- Clear, simple techniques anyone can learn  
+- Clear, easy-to-learn techniques  
 - Focus on prevention and de-escalation  
 - Ethical, legal, and proportionate responses  
 
@@ -43,7 +45,7 @@ Our training supports teams across a wide range of sectors, including:
 - Transport & public-facing services  
 - Retail & customer-facing teams  
 
-Whether you’re protecting staff, students, patients, or customers — we help you create **safer, calmer environments**.
+We help organisations create **safer, calmer, and more confident workplaces**.
 
 ---
 
@@ -52,30 +54,44 @@ Whether you’re protecting staff, students, patients, or customers — we help 
 This blog is where we share:
 - Practical safety tips  
 - Conflict management insights  
-- Training guidance  
-- Industry updates  
-- Real-world examples and best practice  
+- Training guidance and best practice  
+- Industry updates and awareness articles  
 
-Our aim is simple:  
+Our goal is simple:  
 **to help people feel safer, more confident, and better prepared.**
 
 ---
 
-## Latest from the Blog
+## Contact GoodSense Training
 
-- [Why Conflict Management Training Matters in the Workplace](2026-01-why-conflict-management-matters.md)  
-- More articles coming soon
+📍 **Address**  
+GoodSense Training  
+Broadgate Lane  
+Horsforth, Leeds  
+LS18 4AG  
+United Kingdom
+
+📞 **Phone**  
+800 0 146 146
+
+📧 **Email**  
+info@good-sense.co.uk
+
+⏰ **Opening Hours**  
+- Monday – Friday: **7:00am – 6:00pm**  
+- Saturday – Sunday: **9:00am – 11:00am**
 
 ---
 
-## Work With Us
+## Connect With Us
 
-If you’re looking for **professional, practical training** that makes a real difference, GoodSense Training is here to help.
+Stay updated and follow us on social media:
 
-📍 UK-based  
-🎓 Professional training delivery  
-🛡️ Safety-focused, people-first approach  
+- Facebook: https://www.facebook.com/GoodSenseConflictResolutionTraining/  
+- X (Twitter): https://x.com/GoodSense  
+- Instagram: https://www.instagram.com/goodsensetraining/
 
 ---
 
-© GoodSense Training | Building safer workplaces through knowledge and confidence
+© GoodSense Training | UK  
+Building safer workplaces through knowledge, confidence, and practical skills
