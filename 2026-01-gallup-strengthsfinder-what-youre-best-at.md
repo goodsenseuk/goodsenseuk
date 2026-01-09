@@ -16,6 +16,10 @@ When I reviewed my results, I realised many of my so-called “weaknesses” wer
 
 ---
 
+![Image]([C:\Users\YourName\Desktop\image.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDkKfVrEODPikFmWkC3ZnQ78OSDftkt3CHQ&s))
+
+---
+
 ## So, What Are CliftonStrengths?
 
 CliftonStrengths is the framework behind Gallup StrengthsFinder. It organises talents into **34 themes**, which might sound complicated — but in practice, it gives clarity.
