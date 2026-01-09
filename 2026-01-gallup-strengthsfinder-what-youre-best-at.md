@@ -2,13 +2,13 @@
 
 I remember the first time I took a strengths assessment. I thought I knew myself pretty well — turns out, I didn’t. Some things that felt natural to me had been hidden under habits and routines.
 
-Tools like **Gallup StrengthsFinder** and **CliftonStrengths** exist for this exact reason: to help us see what we’re naturally good at. But can they really reveal your true strengths? From my experience, yes — but it takes more than just answering questions online.
+Tools like Gallup StrengthsFinder and CliftonStrengths exist for this exact reason: to help us see what we’re naturally good at. But can they really reveal your true strengths? From my experience, yes — but it takes more than just answering questions online.
 
 ---
 
 ## What’s Actually Interesting About Gallup StrengthsFinder?
 
-Gallup StrengthsFinder isn’t trying to tell you who you are. It’s designed to show you **what comes easily**.
+[**Gallup StrengthsFinder**](https://www.good-sense.co.uk/clifton-strengths-coaching-programme/) isn’t trying to tell you who you are. It’s designed to show you **what comes easily**.
 
 Maybe you’re the person everyone turns to when a problem needs solving. Maybe you notice patterns others don’t. These are strengths — even if you’ve never labelled them that way before.
 
@@ -20,7 +20,7 @@ When I reviewed my results, I realised many of my so-called “weaknesses” wer
 
 CliftonStrengths is the framework behind Gallup StrengthsFinder. It organises talents into **34 themes**, which might sound complicated — but in practice, it gives clarity.
 
-For example, I discovered I had a **Strategic Thinking** theme. I wouldn’t have guessed it. Once I understood it, though, I started applying it everywhere — from work projects to planning family trips.
+For example, I discovered I had a Strategic Thinking theme. I wouldn’t have guessed it. Once I understood it, though, I started applying it everywhere — from work projects to planning family trips.
 
 ---
 
@@ -30,7 +30,7 @@ Honestly? Yes.
 
 When I began focusing on what I naturally do well, I became more productive — and work felt less draining.
 
-Pairing this self-awareness with professional development, such as **PMVA training**, made handling stressful situations far easier. Following **RRN Training Standards** added structure and quality, ensuring the training wasn’t just informative but practical and safe.
+Pairing this self-awareness with professional development, such as [**PMVA training**](https://www.good-sense.co.uk/pmva-general-services-association-gsa-accredited-course/), made handling stressful situations far easier. Following RRN Training Standards added structure and quality, ensuring the training wasn’t just informative but practical and safe.
 
 It’s not magic. It’s simply using what you already have — more effectively.
 
@@ -59,7 +59,7 @@ The answer is application.
 
 For example, **PMVA training** teaches you how to manage difficult situations safely. If leadership or communication is one of your strengths, training gives you the tools to act with confidence — not just instinct.
 
-Following **RRN Training Standards** ensures the skills you learn are effective, ethical, and fit for real-world situations.
+Following [**RRN Training Standards**](https://www.good-sense.co.uk/bild-act-rrn-certified-training/) ensures the skills you learn are effective, ethical, and fit for real-world situations.
 
 ---
 
@@ -77,7 +77,7 @@ Small changes, like avoiding tasks that drain you and leaning into what energise
 
 This is where insight meets action.
 
-**GoodSense Training** offers CliftonStrengths coaching designed not just to identify strengths — but to help people **use them effectively**.
+[**GoodSense Training**](https://www.good-sense.co.uk/) offers CliftonStrengths coaching designed not just to identify strengths — but to help people use them effectively.
 
 By combining Gallup StrengthsFinder insights with practical training, such as PMVA training and adherence to RRN Training Standards, individuals and organisations gain skills that are realistic, structured, and applicable.
 
